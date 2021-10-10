@@ -1,4 +1,4 @@
-const string = "test"
+let string = "test"
 
 function tree(leafs) {
   var branches = [];
